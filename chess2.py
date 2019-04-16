@@ -3,6 +3,8 @@ BLACK = "black"
 gameOver = False
 max_depth = 3
 
+print("sup ")
+
 moves = []
 bestMove = []
 gameboards = []
@@ -469,4 +471,3 @@ uniDict = {WHITE: {Pawn: "♙", Rook: "♖", Knight: "♘", Bishop: "♗", King:
            BLACK: {Pawn: "♟", Rook: "♜", Knight: "♞", Bishop: "♝", King: "♚", Queen: "♛"}}
 
 Game()
-print("hi")
