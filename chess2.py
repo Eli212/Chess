@@ -5,6 +5,7 @@ max_depth = 3
 
 print("sup ")
 print("sup2 ")
+print("sup3 ")
 
 moves = []
 bestMove = []
