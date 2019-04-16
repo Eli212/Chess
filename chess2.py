@@ -4,6 +4,7 @@ gameOver = False
 max_depth = 3
 
 print("sup ")
+print("sup2 ")
 
 moves = []
 bestMove = []
